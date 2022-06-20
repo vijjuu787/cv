@@ -1,0 +1,37 @@
+body {
+  background: #ff97;
+}
+img {
+  height: 155px;
+  width: 155px;
+  color: red;
+
+}
+
+hr{
+  background:white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 10px;
+  width: 30%;
+}
+h2{
+  color:#676f;
+}
+
+/*   class select*/
+h1{
+  color: red;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+}
+.mid-container{
+  background-color: red;
+}
+.bottom-container{
+  background-color: blue;
+
+}
